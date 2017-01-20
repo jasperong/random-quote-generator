@@ -16,11 +16,11 @@ body {
   font-weight:400;
 }
 .quote-box {
-  border-radius:3px;
   position:relative;
   margin:8% auto auto auto;
   width:450px;
   padding:40px 50px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
   display:table;
   background-color:#fff;
   .quote-text {
@@ -50,7 +50,7 @@ body {
     .button {
       height:38px;
       border:none;
-      border-radius:3px;
+      box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
       color:#fff;
       background-color:#333;
       outline:none;
