@@ -4,4 +4,6 @@
 
 ### Live link at https://jasperong.github.io/random-quote-generator
 
+### API is from https://andruxnet-random-famous-quotes.p.mashape.com/
+
 ### Credits go to freeCodeCamp and mashape
